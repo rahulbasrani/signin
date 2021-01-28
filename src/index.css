@@ -34,7 +34,7 @@ form:after{
   right:-5px;
   bottom: -5px;
   z-index: 1;
-  background-image: linear-gradient(to bottom right,#FFCE00,#FE4880);
+  background-image: linear-gradient(to bottom right,#0CE8CE,#0C18E8);
 }
 
 form .form-inner{
@@ -90,7 +90,7 @@ form .form-inner input[type="submit"],
   display: inline-block;
   padding: 10px 15px;
   border-radius: 8px;
-  background-image: linear-gradient(to right,#FFCE00 50%,#FFCE00 50%,#FE4880);
+  background-image: linear-gradient(to right,#0CE8CE 50%,#0CE8CE 50%,#0C18E8);
   background-size: 200%;
   background-position: 0%;
   transition: 0.4s;
@@ -119,7 +119,7 @@ form .form-inner input[type="submit"]:hover,
 }
 
 .welcome h2 span{
-  color:#fe4880;
+  color:#0C18E8;
   font-weight: 700;
 
 }
